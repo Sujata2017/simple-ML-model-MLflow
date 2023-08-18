@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/13ffc481c14743168a1b6157baf3d7cd/artifacts
+end_time: 1692390513842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13ffc481c14743168a1b6157baf3d7cd
+run_name: welcoming-smelt-441
+run_uuid: 13ffc481c14743168a1b6157baf3d7cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692390513624
+status: 3
+tags: []
+user_id: abc

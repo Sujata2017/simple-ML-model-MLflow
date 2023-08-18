@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/d537aa6660a146c6b72f8eed60486cbc/artifacts
+end_time: 1692390534048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d537aa6660a146c6b72f8eed60486cbc
+run_name: legendary-bee-580
+run_uuid: d537aa6660a146c6b72f8eed60486cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692390528639
+status: 3
+tags: []
+user_id: abc
